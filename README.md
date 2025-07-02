@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0551-student-attendance-record-i) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
