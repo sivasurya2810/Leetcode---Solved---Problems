@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0551-student-attendance-record-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
 ## Recursion
 |  |
