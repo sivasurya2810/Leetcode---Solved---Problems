@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
