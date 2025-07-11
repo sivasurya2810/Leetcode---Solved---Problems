@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
