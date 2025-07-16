@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0551-student-attendance-record-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0014-longest-common-prefix) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
