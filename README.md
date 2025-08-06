@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
