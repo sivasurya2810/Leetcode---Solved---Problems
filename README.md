@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2580-circular-sentence](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2580-circular-sentence) |
+| [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1603-running-sum-of-1d-array) |
+| [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0657-robot-return-to-origin) |
+| [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
 ## Number Theory
 |  |
 | ------- |
