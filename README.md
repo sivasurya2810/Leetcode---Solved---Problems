@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
+| [2238-a-number-after-a-double-reversal](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
 | ------- |
