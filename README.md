@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
