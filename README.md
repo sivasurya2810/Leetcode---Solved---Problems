@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0100-same-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
