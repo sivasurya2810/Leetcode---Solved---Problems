@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0551-student-attendance-record-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
