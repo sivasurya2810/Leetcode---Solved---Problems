@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0010-regular-expression-matching) |
+| [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
