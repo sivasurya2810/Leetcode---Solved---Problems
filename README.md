@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2481-strictly-palindromic-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2481-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
