@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
