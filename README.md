@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0657-robot-return-to-origin) |
 | [1954-replace-all-digits-with-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1954-replace-all-digits-with-characters) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2238-a-number-after-a-double-reversal) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0657-robot-return-to-origin) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
