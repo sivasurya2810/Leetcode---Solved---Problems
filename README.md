@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
