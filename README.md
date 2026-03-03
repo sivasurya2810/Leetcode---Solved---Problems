@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1672-richest-customer-wealth) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2639-separate-the-digits-in-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2481-strictly-palindromic-number) |
 | [3099-harshad-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3099-harshad-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
