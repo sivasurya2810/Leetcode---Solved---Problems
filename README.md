@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0709-to-lower-case) |
 | [1954-replace-all-digits-with-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2580-circular-sentence](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2580-circular-sentence) |
