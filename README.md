@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0412-fizz-buzz) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
