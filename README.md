@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0709-to-lower-case) |
 | [1954-replace-all-digits-with-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2418-sort-the-people) |
 | [2580-circular-sentence](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2580-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3110-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1672-richest-customer-wealth) |
+| [2418-sort-the-people](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2418-sort-the-people) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
