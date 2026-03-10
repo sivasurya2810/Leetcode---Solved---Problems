@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2580-circular-sentence](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2580-circular-sentence) |
+| [3110-score-of-a-string](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3110-score-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
