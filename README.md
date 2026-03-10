@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2418-sort-the-people) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2639-separate-the-digits-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0792-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/sivasurya2810/Leetcode---Solved---Problems/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
